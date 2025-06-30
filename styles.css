@@ -1,0 +1,54 @@
+
+img{
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    background-color: #500808;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    border: 1px solid black;
+    margin: 0px auto;
+    width: 100%;
+    font-size: 50px;
+}
+
+p{
+    text-align: center;
+    font-size: large;
+    color: wheat;
+    padding: 20px;
+    width: 40%;
+    margin: -60px auto 0px;
+}
+
+ol{
+    display: flex;
+    list-style: none;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: black;
+}
+
+li{
+    margin: 0 auto;
+}
+
+li a{
+    color: wheat;
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+}
+
+li img{
+    margin: 10px auto;
+}
+
+li p{
+    color: wheat;
+    font-style: italic;
+    margin: 20px auto;
+}
